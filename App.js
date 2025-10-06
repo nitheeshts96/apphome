@@ -4,8 +4,8 @@ import { StyleSheet, Text, View, } from 'react-native';
 import { useRef, useEffect } from 'react-native';
 
 // or any files within the Snack
-import AssetExample from './components/AssetExample';
-import Animated from './components/Animated';
+import AssetExample from './AssetExample';
+import Animated from './Animated';
 
 export default function App() {
   return (
