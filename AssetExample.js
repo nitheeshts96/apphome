@@ -4,7 +4,7 @@ export default function AssetExample() {
   return (
     <View style={styles.container}>
       
-      <Image style={styles.logo} source={require('../assets/hd-digital-art-wallpaper-background_783884-210380.jpg')} />
+      <Image style={styles.logo} source={require('../hd-digital-art-wallpaper-background_783884-210380.jpg')} />
     </View>
   );
 }
